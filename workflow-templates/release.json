@@ -1,0 +1,8 @@
+{
+    "name": "Plugin Docker Release",
+    "description": "Pushes new docker image to the synbiohub docker account",
+    "iconName": "docker-icon",
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}

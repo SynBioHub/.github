@@ -3,6 +3,6 @@
     "description": "Carries out Flake8 Python Linting, ignoring the line too long warnings.",
     "iconName": "linting-icon",
     "categories": [
-        "Python"
+        "python"
     ]
 }
